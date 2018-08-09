@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_11</string>
+    <string name="btn_name">Get name</string>
+    <string name="tv_name">Name:</string>
+</resources>
